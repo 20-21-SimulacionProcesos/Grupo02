@@ -1,0 +1,59 @@
+[0227/172238.471:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172243.496:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172248.521:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172253.540:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172258.571:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172303.586:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172308.616:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172313.651:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172318.671:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172323.702:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172328.721:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172333.742:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172338.751:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172343.761:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172348.776:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172353.799:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172358.821:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172403.846:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172408.876:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172413.901:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172418.916:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172423.946:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172428.966:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172433.996:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172439.021:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/172444.046:WARNING:dns_config_service_win.cc(700)] Failed to read DnsConfig.
+[0227/192549.389:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192549.404:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192549.404:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192549.406:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192549.406:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192549.406:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.674:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.674:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.674:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.674:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.690:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.690:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.705:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.705:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.721:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.721:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.736:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.736:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.751:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.751:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.767:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.767:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.787:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.787:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192551.787:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192552.419:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192603.181:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192603.181:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192603.181:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192603.238:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192603.299:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/192603.299:INFO:CONSOLE(1)] "Uncaught TypeError: Cannot read property 'apply' of undefined", source: v8/flexsim (1)
+[0227/211446.330:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
